@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\bin\Debug\net7.0\Codes_In_Ebooks.exe
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\bin\Debug\net7.0\Codes_In_Ebooks.deps.json
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\bin\Debug\net7.0\Codes_In_Ebooks.runtimeconfig.json
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\bin\Debug\net7.0\Codes_In_Ebooks.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\bin\Debug\net7.0\Codes_In_Ebooks.pdb
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.AssemblyInfo.cs
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\refint\Codes_In_Ebooks.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.pdb
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\Codes_In_Ebooks.genruntimeconfig.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\Codes_In_Ebooks\obj\Debug\net7.0\ref\Codes_In_Ebooks.dll

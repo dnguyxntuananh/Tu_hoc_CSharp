@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Const_ngay16_thang12_2022\\Const_ngay16_thang12_2022.csproj": {}
+    "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Codes_In_Ebooks\\Codes_In_Ebooks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Const_ngay16_thang12_2022\\Const_ngay16_thang12_2022.csproj": {
+    "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Codes_In_Ebooks\\Codes_In_Ebooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Const_ngay16_thang12_2022\\Const_ngay16_thang12_2022.csproj",
-        "projectName": "Const_ngay16_thang12_2022",
-        "projectPath": "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Const_ngay16_thang12_2022\\Const_ngay16_thang12_2022.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Codes_In_Ebooks\\Codes_In_Ebooks.csproj",
+        "projectName": "Codes_In_Ebooks",
+        "projectPath": "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Codes_In_Ebooks\\Codes_In_Ebooks.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\source\\repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Const_ngay16_thang12_2022\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Source\\Repos\\Tu_hoc_CSharp\\Tu_hoc_CShp\\Codes_In_Ebooks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
