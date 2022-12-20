@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\bin\Debug\net7.0\CSharp_Oop.exe
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\bin\Debug\net7.0\CSharp_Oop.deps.json
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\bin\Debug\net7.0\CSharp_Oop.runtimeconfig.json
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\bin\Debug\net7.0\CSharp_Oop.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\bin\Debug\net7.0\CSharp_Oop.pdb
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.AssemblyInfo.cs
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\refint\CSharp_Oop.dll
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.pdb
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\CSharp_Oop.genruntimeconfig.cache
+C:\Users\acer\source\repos\Tu_hoc_CSharp\Tu_hoc_CShp\CSharp_Oop\obj\Debug\net7.0\ref\CSharp_Oop.dll

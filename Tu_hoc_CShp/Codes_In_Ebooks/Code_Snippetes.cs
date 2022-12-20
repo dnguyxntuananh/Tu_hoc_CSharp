@@ -51,4 +51,13 @@ internal class Code_Snippetes
         
     }
 
+    public void Snipp2_page81()
+    {
+        int side = 13;
+        int height = 9;
+        double area = 0.5 * side * height;
+        Console.WriteLine(area);
+        Console.ReadKey();
+    }
+
 }
